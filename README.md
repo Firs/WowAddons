@@ -8,7 +8,6 @@
 - Suppresses chat messages containing customizable keywords.
 - Works across all major chat channels, including:
   - General
-  - Trade
   - Party
   - Guild
   - Whisper
@@ -42,5 +41,4 @@
        "boost",
        "wts",
        "wtb",
-       "carry",
    }

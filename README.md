@@ -18,12 +18,8 @@
 
 ## Installation
 
-### Automatic (Using Addon Managers)
-1. Download and install an addon manager like [WowUp](https://wowup.io/) or [CurseForge](https://www.curseforge.com/).
-2. Search for "ChatFilter" and install the addon.
-
 ### Manual
-1. [Download the latest release](https://github.com/yourusername/ChatFilter/releases).
+1. [Download the latest release](https://github.com/Firs/ChatFilter/releases).
 2. Extract the `.zip` file to your WoW Classic Era AddOns directory:
    - For Windows:  
      `C:\Program Files (x86)\World of Warcraft\_classic_era_\Interface\AddOns\`
